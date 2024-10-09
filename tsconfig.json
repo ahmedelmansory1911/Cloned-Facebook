@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/component/Posts/page.jsx", "app/component/page/page.jsx", "app/component/Posts/CreatPost/Widge.jsx", "app/component/Posts/Posts.tsx"],
   "exclude": ["node_modules"]
 }
